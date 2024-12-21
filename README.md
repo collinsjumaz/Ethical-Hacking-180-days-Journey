@@ -14,7 +14,8 @@ By the end of the lesson, you will be able to:
 Configure custom policies and manage automated scans
 Calculate risk scores and assign ratings
 Use prioritization and response management tools to target response efforts
-###To hack a system, you need three things:
+
+### To hack a system, you need three things:
 - A vulnerability
 - An exploit to trigger that vulnerability
 - An interface between you and the affected target
